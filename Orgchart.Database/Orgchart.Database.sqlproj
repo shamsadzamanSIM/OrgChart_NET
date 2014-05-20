@@ -62,11 +62,14 @@
     <Folder Include="Properties" />
     <Folder Include="dbo\" />
     <Folder Include="dbo\Tables\" />
+    <Folder Include="Security\" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="dbo\Tables\Job_Title.sql" />
     <Build Include="dbo\Tables\Employee.sql" />
     <Build Include="dbo\Tables\Department.sql" />
+    <Build Include="Security\OrgchartUser.sql" />
+    <Build Include="Security\RoleMemberships.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Orgchart.Database.publish.xml" />
