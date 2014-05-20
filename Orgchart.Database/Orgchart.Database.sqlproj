@@ -68,4 +68,7 @@
     <Build Include="dbo\Tables\Employee.sql" />
     <Build Include="dbo\Tables\Department.sql" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Orgchart.Database.publish.xml" />
+  </ItemGroup>
 </Project>
