@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orgchart.Web", "Orgchart.We
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orgchart.Web.Tests", "Orgchart.Web.Tests\Orgchart.Web.Tests.csproj", "{D4DFBC5D-9DF8-489E-9FCA-BDFD2499B06F}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Orgchart.Database", "Orgchart.Database\Orgchart.Database.sqlproj", "{62124F9B-69D8-41E9-96AC-59FFBCA13D21}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,12 @@ Global
 		{D4DFBC5D-9DF8-489E-9FCA-BDFD2499B06F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4DFBC5D-9DF8-489E-9FCA-BDFD2499B06F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4DFBC5D-9DF8-489E-9FCA-BDFD2499B06F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62124F9B-69D8-41E9-96AC-59FFBCA13D21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62124F9B-69D8-41E9-96AC-59FFBCA13D21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62124F9B-69D8-41E9-96AC-59FFBCA13D21}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{62124F9B-69D8-41E9-96AC-59FFBCA13D21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62124F9B-69D8-41E9-96AC-59FFBCA13D21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62124F9B-69D8-41E9-96AC-59FFBCA13D21}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
