@@ -70,6 +70,7 @@
     <Build Include="dbo\Tables\Department.sql" />
     <Build Include="Security\OrgchartUser.sql" />
     <Build Include="Security\RoleMemberships.sql" />
+    <Build Include="Security\OrgchartUser_1.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Orgchart.Database.publish.xml" />
