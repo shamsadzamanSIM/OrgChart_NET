@@ -12,8 +12,8 @@
     <OutputType>Database</OutputType>
     <RootPath>
     </RootPath>
-    <RootNamespace>Orgchart.Database</RootNamespace>
-    <AssemblyName>Orgchart.Database</AssemblyName>
+    <RootNamespace>Orgchart</RootNamespace>
+    <AssemblyName>Orgchart</AssemblyName>
     <ModelCollation>1033,CI</ModelCollation>
     <DefaultFileStructure>BySchemaAndSchemaType</DefaultFileStructure>
     <DeployToDatabase>True</DeployToDatabase>
